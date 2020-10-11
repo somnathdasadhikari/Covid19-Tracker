@@ -27,4 +27,4 @@ spring.jpa.hibernate.use-new-id-generator-mappings=false
 2.	mvn spring-boot:run
 
 
-https://github.com/somnathdasadhikari/Covid19-Tracker/blob/master/signup.png
+
