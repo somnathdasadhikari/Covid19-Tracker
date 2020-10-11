@@ -1,16 +1,16 @@
 # Covid19-Tracker
 
-#Prerequisite:
+# Prerequisite:
+
 1.	Java 11
 2.	Maven
 3.	MySql
 
-#Required changes :
+# Required changes :
 
 Need to update database details in application.properties file.
 
 server.port=${PORT:8080}
-# Ensure application is run in Vaadin 14/npm mode
 vaadin.compatibilityMode = false
 logging.level.org.atmosphere = warn
 spring.jpa.generate-ddl=false
@@ -22,6 +22,6 @@ spring.datasource.initialization-mode=always
 spring.jpa.hibernate.use-new-id-generator-mappings=false
 
 
-#Command to run :
+# Command to run :
 1.	mvn clean install
 2.	mvn spring-boot:run
