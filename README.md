@@ -26,5 +26,5 @@ spring.jpa.hibernate.use-new-id-generator-mappings=false
 1.	mvn clean install
 2.	mvn spring-boot:run
 
-
+![signup](https://user-images.githubusercontent.com/17508328/95684813-aa88c700-0c11-11eb-8375-8355ed12365e.png)
 
