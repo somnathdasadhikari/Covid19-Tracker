@@ -15,7 +15,7 @@ vaadin.compatibilityMode = false<br />
 logging.level.org.atmosphere = warn<br />
 spring.jpa.generate-ddl=false<br />
 spring.jpa.hibernate.ddl-auto=none<br />
-spring.datasource.url=jdbc:mysql://localhost:{port}/{db_name}?useSSL=false
+spring.datasource.url=jdbc:mysql://localhost:{port}/{db_name}?useSSL=false<br />
 spring.datasource.username={user}<br />
 spring.datasource.password={password}<br />
 spring.datasource.initialization-mode=always<br />
